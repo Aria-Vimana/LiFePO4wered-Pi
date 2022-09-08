@@ -23,7 +23,7 @@
 
 /* LiFePO4wered/Pi access constants */
 
-#define I2C_BUS             1
+#define I2C_BUS             4
 #define I2C_ADDRESS         0x43
 #define I2C_WR_UNLOCK       0xC9
 
